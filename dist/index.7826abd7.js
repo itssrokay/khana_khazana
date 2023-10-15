@@ -27331,7 +27331,8 @@ function Heading() {
         className: "head",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                src: "download.jpeg"
+                src: "./images/download.png",
+                alt: "Logo"
             }, void 0, false, {
                 fileName: "Heading.js",
                 lineNumber: 5,
@@ -27344,28 +27345,34 @@ function Heading() {
                 lineNumber: 6,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                className: "comp1",
-                children: "Home"
-            }, void 0, false, {
-                fileName: "Heading.js",
-                lineNumber: 7,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                className: "comp1",
-                children: "Menu"
-            }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
+                className: "navbar",
+                children: [
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                        children: "Home"
+                    }, void 0, false, {
+                        fileName: "Heading.js",
+                        lineNumber: 9,
+                        columnNumber: 4
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                        children: "Menu"
+                    }, void 0, false, {
+                        fileName: "Heading.js",
+                        lineNumber: 10,
+                        columnNumber: 4
+                    }, this),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                        children: "contact us"
+                    }, void 0, false, {
+                        fileName: "Heading.js",
+                        lineNumber: 11,
+                        columnNumber: 7
+                    }, this)
+                ]
+            }, void 0, true, {
                 fileName: "Heading.js",
                 lineNumber: 8,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
-                className: "comp1",
-                children: "contact-us"
-            }, void 0, false, {
-                fileName: "Heading.js",
-                lineNumber: 9,
                 columnNumber: 7
             }, this)
         ]
@@ -27384,7 +27391,7 @@ $RefreshReg$(_c, "Heading");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react":"21dqq"}],"cYwWH":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"cYwWH":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$3567 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -27398,7 +27405,8 @@ var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 function Card() {
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "search",
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
                 type: "text",
@@ -27416,7 +27424,11 @@ function Card() {
                 columnNumber: 5
             }, this)
         ]
-    }, void 0, true);
+    }, void 0, true, {
+        fileName: "Card.js",
+        lineNumber: 4,
+        columnNumber: 3
+    }, this);
 }
 _c = Card;
 var _c;

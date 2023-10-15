@@ -1,11 +1,4 @@
-5979
-91C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\csso\cjs\clean\Comment.cjs133407701409330661 0
-75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-select133407701411790439 1
-101C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\lib\syntax\scope\default.js133407701410086271 0
-59C:\Users\shiva\OneDrive\Desktop\namaste react\codes\.vscode133413349591824780 1
-88C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\domutils\lib\feeds.d.ts133407701409386588 0
-133C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133407701504794558 0
-92C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lightningcss-win32-x64-msvc133407701411011472 1
+5981
 105C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\cjs\definition-syntax\parse.cjs133407701407339019 0
 77C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\svgo\LICENSE133407701412391418 0
 133C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_collections.js133407701510375636 0
@@ -17,10 +10,24 @@
 86C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\node-releases\LICENSE133407701414005902 0
 95C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\utils\src\TapStream.js133407701495683699 0
 89C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\js-yaml\lib\exception.js133407701412588896 0
-58C:\Users\shiva\OneDrive\Desktop\namaste react\codes\App.js133413484494624103 0
+58C:\Users\shiva\OneDrive\Desktop\namaste react\codes\App.js133414229974287002 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\regions\AL.js133407701414673054 0
+75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\domhandler133407701406616898 1
+103C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@swc\helpers\src\_set_prototype_of.mjs133407701426564899 0
+71C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@lezer133407701397808992 1
+87C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\nth-check\lib\parse.js133407701405202907 0
+62C:\Users\shiva\OneDrive\Desktop\namaste react\codes\.gitignore133413993367282707 0
+121C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133407701427288937 0
+85C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr-extract\src133407701409118333 1
+91C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\csso\cjs\clean\Comment.cjs133407701409330661 0
+75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-select133407701411790439 1
+101C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\lib\syntax\scope\default.js133407701410086271 0
+59C:\Users\shiva\OneDrive\Desktop\namaste react\codes\.vscode133413349591824780 1
+88C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\domutils\lib\feeds.d.ts133407701409386588 0
+133C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133407701504794558 0
+92C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lightningcss-win32-x64-msvc133407701411011472 1
 113C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133407701411597608 0
-59C:\Users\shiva\OneDrive\Desktop\namaste react\codes\Card.js133413486182545844 0
+59C:\Users\shiva\OneDrive\Desktop\namaste react\codes\Card.js133413993434760540 0
 71C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\braces133407701404123128 1
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\htmlnano\lib\modules\minifyJson.js133407701425082672 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lz4\lib\lz4.c133407701428334963 0
@@ -32,13 +39,13 @@
 118C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@babel\code-frame\node_modules\color-convert\route.js133407701404316032 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\regions\AX.js133407701415506035 0
 105C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\csso133407701508466388 1
-56C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist133413487550272153 1
+56C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist133414234643425846 1
 111C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js133407701408373663 0
 120C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-select\node_modules\domutils\lib\esm\traversal.d.ts133407701507551184 0
 94C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@lezer\lr\dist\constants.d.ts133407701439575083 0
 143C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\definition-syntax\generate.js133407701509388677 0
 83C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\micromatch\LICENSE133407701403329435 0
-58C:\Users\shiva\OneDrive\Desktop\namaste react\codes\images133413380957298251 1
+58C:\Users\shiva\OneDrive\Desktop\namaste react\codes\images133414020078193183 1
 102C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@swc\helpers\_\_defaults\package.json133407701422972545 0
 122C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@babel\code-frame\node_modules\color-convert\package.json133407701403339413 0
 90C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\csso\lib\clean\Comment.js133407701411675397 0
@@ -74,7 +81,7 @@
 95C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\svgo\plugins\collapseGroups.js133407701414504609 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\regions\SY.js133407701428224069 0
 70C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@lmdb133407910756190993 1
-62C:\Users\shiva\OneDrive\Desktop\namaste react\codes\Heading.js133413390913362403 0
+62C:\Users\shiva\OneDrive\Desktop\namaste react\codes\Heading.js133414020220962841 0
 111C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\csso\node_modules\css-tree\lib\syntax\index.js133407701514925939 0
 85C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\postcss-value-parser133407701416468783 1
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\source-map-js\lib\base64-vlq.js133407701405024018 0
@@ -86,7 +93,7 @@
 101C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\source-map\dist\SourceMap.js133407701448445949 0
 81C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\stable\stable.js133407701405064058 0
 94C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\transformer-image\lib133407701462703978 1
-61C:\Users\shiva\OneDrive\Desktop\namaste react\codes\index.css133413487549633843 0
+61C:\Users\shiva\OneDrive\Desktop\namaste react\codes\index.css133414234636993459 0
 111C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\array-find-index.js133407701415076912 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\type-fest\source\set-optional.d.ts133407701415076912 0
 124C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133407701428444911 0
@@ -140,10 +147,6 @@
 85C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@swc\core\binding.js133407701434072903 0
 95C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\domutils\lib\manipulation.d.ts133407701409515286 0
 106C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\react-dom\cjs\react-dom.production.min.js133407722730038381 0
-75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\domhandler133407701406616898 1
-103C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@swc\helpers\src\_set_prototype_of.mjs133407701426564899 0
-71C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@lezer133407701397808992 1
-87C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\nth-check\lib\parse.js133407701405202907 0
 103C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\utility-types\dist\mapped-types.js.map133407701416497088 0
 101C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\cjs\syntax\node\Comment.cjs133407701405986014 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\regions\SR.js133407701427844317 0
@@ -485,7 +488,7 @@
 75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\picocolors133407701404235953 1
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\regions\SC.js133407701427376265 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\utility-types\dist\mapped-types.js133407701416413866 0
-74C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.7826abd7.js133413486715654152 0
+74C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.7826abd7.js133414234643320810 0
 74C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\picomatch133407701404549112 1
 73C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\posthtml133407701424490223 1
 103C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\node-releases\data\processed\envs.json133407701414109626 0
@@ -978,7 +981,7 @@
 133C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertTransform.js133407701509927862 0
 98C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\type-fest\source\stringified.d.ts133407701415189096 0
 97C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\picocolors\picocolors.browser.js133407701403475991 0
-79C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.9e4c6fd2.css.map133413487550232245 0
+79C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.9e4c6fd2.css.map133414234641541579 0
 108C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\type-fest\source\union-to-intersection.d.ts133407701415229234 0
 108C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133407701514367855 0
 148C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local133407701515296395 1
@@ -1064,7 +1067,6 @@
 85C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\timsort\package.json133407701413966525 0
 112C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\transformer-image\lib\validateConfig.js133407701462723925 0
 81C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\js-yaml\lib\type133407701412913720 1
-87C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\react-dom\profiling.js133407722725958519 0
 101C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-what\lib\commonjs\parse.d.ts.map133407701405674867 0
 82C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\timsort\README.md133407701414109626 0
 100C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr\dist\index-no-eval.cjs.map133407701431774911 0
@@ -1513,6 +1515,7 @@
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\packager-js\lib\helpers.js133407701482975355 0
 103C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\chrome-trace-event\dist\trace-event.js133407701454396468 0
 87C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\react-dom\package.json133407722730638504 0
+87C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\react-dom\profiling.js133407722725958519 0
 115C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133407701428275122 0
 84C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\react-dom\README.md133407722730638504 0
 122C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo-node.js133407701512346661 0
@@ -1726,8 +1729,6 @@
 130C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\utils.js133407701508389110 0
 85C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\path-type\index.d.ts133407701410772478 0
 87C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\path-type\package.json133407701410667051 0
-114C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@babel\code-frame\node_modules\has-flag\readme.md133407701403892766 0
-116C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133407701428264106 0
 110C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\form-validation.js133407701421188204 0
 90C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\packager-html\src133407701477695617 1
 84C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\path-type\readme.md133407701411088968 0
@@ -1903,8 +1904,6 @@
 89C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr-extract\LICENSE133407701409073181 0
 94C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr-extract\node_modules133407701723747085 1
 94C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr-extract\package.json133407701409300711 0
-121C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133407701427288937 0
-85C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr-extract\src133407701409118333 1
 137C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeOffCanvasPaths.js133407701511664923 0
 117C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133407701419325754 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\msgpackr-extract\node_modules\.bin133407701723904539 1
@@ -2220,6 +2219,8 @@
 116C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133407701428454887 0
 92C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@swc\helpers\src\_throw.mjs133407701426648925 0
 84C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\callsites\readme.md133407701404002896 0
+114C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@babel\code-frame\node_modules\has-flag\readme.md133407701403892766 0
+116C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133407701428264106 0
 119C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133407701430775822 0
 110C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\payment-request.js133407701426454893 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\csso\node_modules\mdn-data\LICENSE133407701504224277 0
@@ -3410,6 +3411,7 @@
 104C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133407701406827438 0
 97C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\core\lib\public\Asset.js133407701509550870 0
 104C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133407701406846451 0
+71C:\Users\shiva\OneDrive\Desktop\namaste react\codes\images\download.png133414019767421757 0
 108C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\cjs\syntax\node\index-generate.cjs133407701406866495 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\css-tree\cjs\syntax\node\index.cjs133407701406974018 0
 110C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\css-paged-media.js133407701418012577 0
@@ -4437,7 +4439,7 @@
 97C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\abortcontroller-polyfill\LICENSE133407701434072903 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\xhr2.js133407701430180539 0
 100C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\xhtml.js133407701430180539 0
-67C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.html133413486715618805 0
+67C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.html133414234643305710 0
 136C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeScriptElement.js133407701511729897 0
 109C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\xml-serializer.js133407701430225590 0
 99C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\caniuse-lite\data\features\zstd.js133407701430288236 0
@@ -5975,6 +5977,6 @@
 78C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\.bin\svgo.ps1133407701723904539 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\.bin\update-browserslist-db.cmd133407701723987886 0
 96C:\Users\shiva\OneDrive\Desktop\namaste react\codes\node_modules\.bin\update-browserslist-db.ps1133407701723987886 0
-78C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.7826abd7.js.map133413486716112965 0
-75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.9e4c6fd2.css133413487550102607 0
+78C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.7826abd7.js.map133414234643401405 0
+75C:\Users\shiva\OneDrive\Desktop\namaste react\codes\dist\index.9e4c6fd2.css133414234641404889 0
 73C:\Users\shiva\OneDrive\Desktop\namaste react\codes\.vscode\settings.json133413349592376563 0

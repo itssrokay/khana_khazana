@@ -8,16 +8,15 @@
   display: flex;
 }
 
-.comp1 {
-  padding-left: 0;
-  display: flex;
-}
-
 .search {
   margin-top: 50px;
   margin-left: 0;
   padding-top: 10px;
   padding-left: 0;
+}
+
+li {
+  list-style-type: none;
 }
 
 /*# sourceMappingURL=index.9e4c6fd2.css.map */
